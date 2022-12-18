@@ -8,7 +8,7 @@ html {
 
 body {
     font-family: Montserrat, sans-serif;
-    background-image: url("../image/background.jpg");
+    background-image: url("/image/background.jpg");
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
