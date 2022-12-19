@@ -4,6 +4,6 @@
 
 https://kozuro.github.io/currency-converter/
 
-## Opis
+## Description
 
-Jest to mój pierwszy prosty przelicznik walut. Zostanie rozbudowany w przyszłości.
+This is my first simple currency converter. It will be expanded in the future.
