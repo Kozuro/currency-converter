@@ -6,10 +6,11 @@ html {
     box-sizing: inherit;
 }
 
-body {
+.body {
     font-family: Montserrat, sans-serif;
     background-image: url("../image/background.jpg");
     background-position: center;
     background-size: auto;
     background-repeat: no-repeat;
+    min-height: 97vh;    
 }
